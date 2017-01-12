@@ -3,12 +3,11 @@ using System.Collections;
 
 public class GameController : MonoBehaviour {
 
-	void Start() {
-	
-	}
-	
-	
-	void Update() {
-	
-	}
+    private void Start() {
+        var x = 5;
+    }
+
+
+    private void Update() {
+    }
 }
